@@ -1,0 +1,10 @@
+Basic Linux Commands
+
+pwd  - present working directory
+ls   - list files
+cd   - change directory
+mkdir - create directory
+rm   - remove file
+touch - create file
+cat  - display file contents
+clear - clear terminal
